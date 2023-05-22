@@ -13,8 +13,11 @@ private:
     int x, y;
     int hp; // health points
     int experience;
+    int score;
     int killCount;
     Weapon weapon;
+    Invetory invetory;
+
 public:
     void Shoot();
 

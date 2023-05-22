@@ -3,4 +3,4 @@ project(shooter)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(shooter main.cpp Game.cpp Game.h Player.cpp Player.h Weapon.cpp Weapon.h)
+add_executable(shooter main.cpp Game.cpp Game.h Player.cpp Player.h Weapon.cpp Weapon.h Shop.cpp Shop.h Achievement.cpp Achievement.h Loot.cpp Loot.h Item.cpp Item.h)
