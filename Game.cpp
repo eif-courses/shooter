@@ -6,9 +6,13 @@
 #include "Player.h"
 
 void Game::Start() {
-    Player player;
+    Player player{};
 
-    while(true) {
-        player.Shoot();
+    while (true) {
+        char ch;
+            //std::cout << "Right Shift key pressed" << std::endl;
+            //player.Shoot();
+
     }
+
 }

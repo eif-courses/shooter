@@ -7,6 +7,7 @@
 
 
 #include "Weapon.h"
+#include "Invetory.h"
 
 class Player {
 private:
